@@ -1,2 +1,2 @@
 # python_exercise
-python学习中的练习小demo们
+python学习中的小练习
